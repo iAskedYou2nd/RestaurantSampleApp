@@ -1,10 +1,9 @@
 # RestaurantSampleApp
 
-# Bottle Rocket iOS Engineering Test
 ## Introduction
-    -The intention of this coding test is to assess your ability to work with requirements commonly seen at Bottle Rocket. We want you to display your knowledge of best practices and software design. Write clean code and demonstrate your knowledge of object-oriented programming concepts.
+    -The intention of this coding test is to assess your ability to work with requirements commonly seen in development. We want you to display your knowledge of best practices and software design. Write clean code and demonstrate your knowledge of object-oriented programming concepts.
     -You will create a universal iOS app that meets the requirements below. You should build the app using the latest available version of Xcode and the iOS SDK. You need only support the latest iOS version, so you may use any of the latest frameworks that Apple makes available.
-    -Your code should conform to Bottle Rocket’s coding guidelines. These guidelines can be found on the Bottle Rocket GitHub. In particular, pay attention to brace style and spacing between components.
+    -Your code should conform to industry standard syntax. Pay attention to brace style and spacing between components.
 ## Requirements
     -Create a new application using a UITabBarController. This tab bar controller will have two tabs: one named “lunch” and one named “internets”.
     -For the first tab, “lunch,” you will create a UICollectionView that will display content from the JSON data feed found at https://s3.amazonaws.com/br-codingexams/restaurants.json.
@@ -18,9 +17,9 @@
             -Upon initial load of your web view controller, display this URL: https://www.bottlerocketstudios.com. 
             -Provide support for Back, Next, and Refresh functionality as you would see in a full-featured web browser implementation.
     -No cocoa pods are allowed. Third party libraries for image fetching and caching are not recommended. We want to see what you can, or cannot, do.
-    -Your application should match the style defined in the documents included in the archive along with this requirements document. There are images for the three screens in the Blueprints folder, called list.png, detail.png, and web.png. A folder with cuts (images) that should be used in your application has also been provided.
+    -Your application should match the style defined in the documents included in the archive along with this requirements document. There are images for the three screens in the below, called list.png, detail.png, and web.png. A folder with cuts (images) that should be used in your application has also been provided.
     -Your application must use auto layout and should render correctly on all current iOS phones. It should also render correctly on iPad. For iPad, you should use a two-column layout for the collection view in the “lunch” tab and handle autorotation events. The iPhone version only needs to support the portrait orientation.
-    -Optional: Feel free to add any polish you like to the app. You may add some animations, custom view controller transitions, etc. At Bottle Rocket we try to make our apps as polished and interesting as possible, so show us what you can do!
+    -Optional: Feel free to add any polish you like to the app. You may add some animations, custom view controller transitions, etc. Here we try to make our apps as polished and interesting as possible, so show us what you can do!
 
 
 # Restaurant List Screen
