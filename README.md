@@ -24,8 +24,10 @@
 
 
 # Restaurant List Screen
-![Test Image 1](list.png)
+![Restaurant Frame](list.png)
 
 # Detail Screen
+![Restaurant Info Frame](detail.png)
 
 # Web Screen
+![Web Page Frame](web.png)
