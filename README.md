@@ -23,10 +23,10 @@
 
 
 # Restaurant List Screen
-![Restaurant Frame](list.png)
+![Restaurant Frame](https://github.com/iAskedYou2nd/RestaurantSampleApp/blob/main/Frames/list.png)
 
 # Detail Screen
-![Restaurant Info Frame](detail.png)
+![Restaurant Info Frame](https://github.com/iAskedYou2nd/RestaurantSampleApp/blob/main/Frames/detail.png)
 
 # Web Screen
-![Web Page Frame](web.png)
+![Web Page Frame](https://github.com/iAskedYou2nd/RestaurantSampleApp/blob/main/Frames/web.png)
